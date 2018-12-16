@@ -1,0 +1,23 @@
+Before Cloud,
+To launch an application
+Stage 1: Need server, storage, network......
+after some days having nother copy of in another server
+	Stage 2: Data Center ->  server, another server(redundant), storage, network.....
+after some days,copy of data center but needs to do disaster recovery
+	Disaster recovery -> if something happens to one data center , we should have another data center 
+virtualisation:
+With in a physical machine, we can create n no of virtual servers and we can launch n no of applications but it depends on physical machine capacity
+We cannot have numerous virtual servers .there is some limitations
+
+many companies using virtualisation but very few are using cloud
+
+
+Challenges:
+	Storage will be left idle if we are not using but we are paying for the idle memory
+	man power is more - for each and every team there shuld be a support
+	ex: storage, network, securty, developer,monitoring....
+
+Cloud service:
+	Services and solutions that are deliverd and consumed in real time over internet are cloud services
+Cloud computing:
+	Delivery model of computing servives
